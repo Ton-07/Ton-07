@@ -1,4 +1,4 @@
-# 👋 Fala aí! Eu sou o Ton 🧠
+# 👋 Eae, Ton aqui 🧠
 
 Sou estudante de Engenharia de Software na UFMS, curioso por natureza e entusiasta do saber.  
 Apaixonado por desenvolvimento e segurança da informação.
